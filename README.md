@@ -1,4 +1,4 @@
 # Jason's Notes
 ## Summary 
 
-This repository contains all of the notes taken by Jason for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Jason](https://github.com/JasonDisj) for the [Lighthouse Labs](https://www.lighthouselabs.ca/en) Web Development Bootcamp.
